@@ -13,7 +13,7 @@ Hello Holberton
 Hello Holberton
 Hello Holberton
 Hello Holberton
-hello holberton
+hello Holberton
 Hello Holberton
 Hello Holberton
 Hello Holberton
