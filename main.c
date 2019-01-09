@@ -1,9 +1,32 @@
-int main()
-{
-  int i;
-  for (i = 0; i < 10; i++)
-  {
-    printf("Holberton\n");
-  }
-  return 0;
-}
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+hello holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
+Hello Holberton
